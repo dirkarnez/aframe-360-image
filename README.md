@@ -1,5 +1,5 @@
-aframe-360-image
-================
+[aframe-360-image](https://dirkarnez.github.io/aframe-360-image/)
+=================================================================
 ### Notes
 - Chinese characters should use [MSDF font generator](https://msdf-bmfont.donmccurdy.com/) to generate font. And content cannot be dynamic
 - Change scene
