@@ -7,4 +7,6 @@
         - this is cleaner
 - Need local server
 - [aframe text sample jitter - CodeSandbox](https://codesandbox.io/p/sandbox/3v9z2z34p6?file=%2Findex.html%3A12%2C1)
-    - fix div 
+    - fix div
+- [Responsive UI – A-Frame](https://aframe.io/examples/showcase/responsiveui/)
+    - preview 
